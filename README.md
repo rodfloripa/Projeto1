@@ -1,5 +1,6 @@
 # Projeto1
-Análise do Bay Area Bike Share
+Análise do Bay Area Bike Share-ND Fundamentos de Data Science I-Udacity
+https://br.udacity.com/course/python-fundamentos-data-science--nd110
 
 Este projeto mostra a análise de dados de uma empresa de aluguel de bicicletas.
 Como é o primeiro projeto em Python do Udacity eles fornecem boa parte do código já
