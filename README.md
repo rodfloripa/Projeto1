@@ -8,3 +8,5 @@ Como é o primeiro projeto em Python do Udacity eles fornecem boa parte do códi
 escrito,deixando que o aluno complete apenas algumas partes.No arquivo ipynb as partes
 do código que foram completadas por mim estão descritas.Neste arquivo existem várias
 perguntas sobre os dados com as minhas respostas.
+
+https://github.com/rodfloripa/Projeto1/blob/master/trips.png
