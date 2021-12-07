@@ -9,4 +9,4 @@ escrito,deixando que o aluno complete apenas algumas partes.No arquivo ipynb as 
 do código que foram completadas por mim estão descritas.Neste arquivo existem várias
 perguntas sobre os dados com as minhas respostas.
 
-https://github.com/rodfloripa/Projeto1/blob/master/trips.png
+![](https://github.com/rodfloripa/Projeto1/blob/master/trips.png)
